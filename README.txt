@@ -4,7 +4,7 @@ MIT xPRO
 This project was part of the course work required in the MIT xPRO Full-Stack development course.
 
 Description
-This project displays a web page containing real time location information for a bus route in Cambridge, MA. This project demonstrates the ability to write async functions to fetch data from external sources. This project uses programmatic styling to build and render a map on a web page.
+This project displays a web page containing real time location information for a bus route in Cambridge, MA. It also demonstrates writing async functions to fetch data from external sources. It uses programmatic styling to build and render a map on a web page.
 
 Improvements
 There has been a change in the style of the Mapbox map
